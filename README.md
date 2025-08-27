@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Java & Rust
+🌱 I’m currently learning Java & Rust  
 🔭 I’m currently studying!
 
 <!--
