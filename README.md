@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Java & Rust
+🔭 I’m currently studying!
+
 <!--
 **AliBasam/AliBasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
